@@ -17,6 +17,17 @@ Costruito con PHP, JavaScript e CSS, mira a fornire un'esperienza utente senza i
 - 🎨 Finestre modali per il login
 - 📋 Messaggi personalizzati e automatici in base alle casistiche
 
+## 📜 Licenza
+Questo progetto è sotto licenza MIT. Vedi il file LICENSE per i dettagli.
+
+## 🤝 Contributi
+Fai un fork del repository
+Crea un nuovo branch (git checkout -b feature-branch)
+Apporta le tue modifiche
+Effettua il commit delle tue modifiche (git commit -m 'Aggiungi qualche funzionalità')
+Push al branch (git push origin feature-branch)
+Apri una Pull Request
+
 ## 📂 Struttura dei File
 ```plaintext
 .
@@ -28,13 +39,4 @@ Costruito con PHP, JavaScript e CSS, mira a fornire un'esperienza utente senza i
 ├── style.css
 └── custom.js
 
-## 📜 Licenza
-Questo progetto è sotto licenza MIT. Vedi il file LICENSE per i dettagli.
 
-## 🤝 Contributi
-Fai un fork del repository
-Crea un nuovo branch (git checkout -b feature-branch)
-Apporta le tue modifiche
-Effettua il commit delle tue modifiche (git commit -m 'Aggiungi qualche funzionalità')
-Push al branch (git push origin feature-branch)
-Apri una Pull Request
